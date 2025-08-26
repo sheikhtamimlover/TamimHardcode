@@ -1,0 +1,28 @@
+{
+  "name": "tamimhardcode",
+  "version": "1.0.0",
+  "description": "Secure encryption/decryption package with license protection and machine binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "demo": "node index.js"
+  },
+  "keywords": ["encryption", "security", "tamim", "hardcode", "protection"],
+  "author": "ST | Sheikh Tamim",
+  "license": "Proprietary",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheikhtamimlover/TamimHardcode"
+  },
+  "dependencies": {
+    "@types/node": "^22.13.11"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "package.json"
+  ]
+}
