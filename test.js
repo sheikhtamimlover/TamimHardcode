@@ -1,5 +1,5 @@
 
-const { TamimHardcode, encrypt, decrypt, encryptFile, decryptFile, isLicensed, getInfo } = require('./src/index.js');
+const { TamimHardcode, encrypt, decrypt, encryptFile, decryptFile, isLicensed, getInfo } = require('./index.js');
 
 console.log('🔐 TamimHardcode Test Suite\n');
 

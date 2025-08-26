@@ -1,6 +1,6 @@
 {
   "name": "tamimhardcode",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Secure encryption/decryption package with license protection and machine binding",
   "main": "index.js",
   "scripts": {
